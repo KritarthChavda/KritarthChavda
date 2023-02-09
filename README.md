@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritarthchavda&label=Profile%20views&color=0e75b6&style=flat" alt="kritarthchavda" /> </p>
 
-- 🌱 I’m currently learning **Web Dev , Flutter and DSA .**
+- 🌱 I’m currently learning **Javascript , C and Flutter .**
 
-- 💬 Ask me about **Java and Web Dev .**
+- 💬 Ask me about **Java and C .**
 
 - 📫 How to reach me **kritarthchavda@gmail.com**
 
@@ -23,5 +23,7 @@
 <p><img align="left" src="https://vercel.com/kritarthchavda/kritarth-chavda/61eSi9BYe6445eRSLfSRCS12n9N8/api/top-langs?username=kritarthchavda&show_icons=true&locale=en&layout=compact" alt="kritarthchavda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritarthchavda&show_icons=true&locale=en" alt="kritarthchavda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritarthchavda&" alt="kritarthchavda" /></p>
 
 
