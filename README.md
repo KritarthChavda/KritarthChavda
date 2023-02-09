@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://vercel.com/kritarthchavda/kritarth-chavda/61eSi9BYe6445eRSLfSRCS12n9N8/api/top-langs?username=kritarthchavda&show_icons=true&locale=en&layout=compact" alt="kritarthchavda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritarthchavda&show_icons=true&locale=en" alt="kritarthchavda" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritarthchavda&" alt="kritarthchavda" /></p>
 
