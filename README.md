@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritarthchavda&label=Profile%20views&color=0e75b6&style=flat" alt="kritarthchavda" /> </p>
 
-- 🌱 I’m currently learning **Javascript , C and Flutter .**
+- 🌱 I’m currently learning **Flutter and DSA .**
 
-- 💬 Ask me about **Java and C .**
+- 💬 Ask me about **Java and Flutter .**
 
 - 📫 How to reach me **kritarthchavda@gmail.com**
 
